@@ -96,13 +96,3 @@ Atualmente, o foco principal é em:
 Ainda estou considerando adicionar implementações em outras linguagens, dependendo da necessidade e do interesse.
 
 -----
-
-## Contribuições (Opcional)
-
-Se outras pessoas forem se juntar ao projeto, você pode adicionar uma seção de "Como Contribuir". Algo como:
-
-Sinta-se à vontade para explorar os códigos, propor melhorias ou até mesmo adicionar implementações em outras linguagens\!
-
------
-
-Espero que este `README.md` ajude a organizar e apresentar bem o seu projeto\!
